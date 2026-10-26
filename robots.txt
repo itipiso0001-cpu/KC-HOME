@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.kchome.online/sitemap.xml
+Sitemap: https://kchome.online/sitemap.xml

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.kchome.online/</loc>
+    <loc>https://kchome.online/</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+      <image:image><image:loc>https://kchome.online/assets/images/project-aerial-render.jpg</image:loc></image:image>
+      <image:image><image:loc>https://kchome.online/assets/images/house-front.jpg</image:loc></image:image>
+      <image:image><image:loc>https://kchome.online/assets/images/house-side-walkway.jpg</image:loc></image:image>
+      <image:image><image:loc>https://kchome.online/assets/images/living-room.jpg</image:loc></image:image>
+      <image:image><image:loc>https://kchome.online/assets/images/dining-area.jpg</image:loc></image:image>
+      <image:image><image:loc>https://kchome.online/assets/images/garden-and-exterior.jpg</image:loc></image:image>
   </url>
 </urlset>
