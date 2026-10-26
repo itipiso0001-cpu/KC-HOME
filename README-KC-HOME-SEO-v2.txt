@@ -1,4 +1,4 @@
-KC HOME — SEO + crawlable photos + favicon (v2)
+KC HOME — SEO + crawlable photos + favicon + discount update
 
 IMPORTANT: Extract this ZIP before uploading. The ZIP itself should NOT be uploaded into the repository.
 
@@ -30,3 +30,9 @@ After deployment:
 - Check https://kchome.online/favicon.ico and https://kchome.online/assets/images/kc-home-social.jpg open directly.
 - In Google Search Console, verify both domain/host variants if applicable, use URL Inspection for https://kchome.online/ and Request indexing, then submit https://kchome.online/sitemap.xml.
 - Google favicon and search/AI overview image selections are controlled by Google and are not guaranteed. Recrawling can take days to weeks.
+
+
+Latest changes:
+- Promotion amount updated to 300,000 baht in page metadata and visible details.
+- New inline SVG coupon-ticket discount icon; source also available as discount-ticket.svg.
+- Social preview image updated to show the 300,000-baht promotion.
